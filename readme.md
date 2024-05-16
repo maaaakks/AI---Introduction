@@ -1,5 +1,8 @@
 # AI Projects Repository
-![illustration](illustration.JPG)
+<p align="center">
+  <img src="illustration.JPG" alt="illustration">
+</p>
+
 Ce répertoire contient une collection de quatre projets d'IA. Chaque projet est organisé dans son propre dossier et a un objectif unique.
 
 ### Tic Tac Toe
@@ -13,8 +16,5 @@ Intégration de la connaissance dans une IA pour résoudre des énigmes logiques
 
 ### Minesweeper
 IA pouvant résoudre un démineur.
-
-
-
 
 
